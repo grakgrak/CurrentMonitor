@@ -1,0 +1,1 @@
+Monitors current consumption in watts
